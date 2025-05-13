@@ -3,7 +3,7 @@ import React, { Component } from "react";
 export class MyComponent extends Component {
   // shallow compare
   hasUpdatedProp(obj1, obj2) {
-    // check if prop item is not a object type
+    // check if prop item is not an object type
     if (typeof obj1 !== "object" || typeof obj2 !== "object") return false;
     if (obj1 === null || obj2 === null) return false;
 
