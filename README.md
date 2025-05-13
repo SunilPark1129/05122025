@@ -2,7 +2,7 @@ Pure Component
 
 - install<br/>
 ```
-git clone https://github.com/SunilPark1129/05132025.git
+git clone https://github.com/SunilPark1129/05122025.git
 ```
 
 - install packages<br/>
